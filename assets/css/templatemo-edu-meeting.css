@@ -284,7 +284,7 @@ header
 }
 
 .header-area .main-nav {
-  min-height: 80px;
+  min-height: 8px;
   background: transparent;
 }
 
@@ -301,6 +301,11 @@ header
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
+.logo{
+  width: 140px;
+
+}
+
 
 .background-header .main-nav .logo {
   line-height: 75px;
@@ -320,7 +325,7 @@ header
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   position: relative;
-  z-index: 999;
+  z-index: 9;
 }
 
 .header-area .main-nav .nav li {
