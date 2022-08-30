@@ -740,7 +740,7 @@ banner
   font-weight: 800;
   color: rgb(233, 13, 13);
   letter-spacing: 1px;
-  text-shadow:2px 0 #f7f7f7, 0px 2px #eee ;
+  text-shadow:1px 0 #f7f7f7, 0px 2px rgb(3, 3, 3) ;
 }
 
 .main-banner .caption h2 em {
@@ -1775,13 +1775,13 @@ responsive
 @media (max-width: 992px) {
 
   .main-banner .caption {
-    top: 60%;
+    top: 50%;
   }
 
   .main-banner .caption h2 {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 28px;
+    font-size: 25px;
   }
 
   .main-banner .caption .main-button-red {
