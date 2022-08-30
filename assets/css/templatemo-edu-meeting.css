@@ -740,7 +740,7 @@ banner
   font-weight: 800;
   color: rgb(233, 13, 13);
   letter-spacing: 1px;
-  text-shadow:2px 0 #f7f7f7;
+  text-shadow:2px 0 #f7f7f7, 0px 2px #eee ;
 }
 
 .main-banner .caption h2 em {
@@ -1781,7 +1781,7 @@ responsive
   .main-banner .caption h2 {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 35px;
+    font-size: 28px;
   }
 
   .main-banner .caption .main-button-red {
