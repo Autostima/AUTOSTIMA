@@ -750,8 +750,11 @@ banner
 
 .main-banner .caption p {
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   max-width: 570px;
+  text-align: justify;
+  margin-right: 30px;
+  margin-left: 3px;
 }
 
 .main-banner .caption .main-button-red {
