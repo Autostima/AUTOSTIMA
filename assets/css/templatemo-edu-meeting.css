@@ -735,11 +735,12 @@ banner
 .main-banner .caption h2 {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 48px;
   text-transform: uppercase;
   font-weight: 800;
-  color: #fff;
+  color: rgb(233, 13, 13);
   letter-spacing: 1px;
+  text-shadow:2px 0 #f7f7f7;
 }
 
 .main-banner .caption h2 em {
@@ -755,6 +756,7 @@ banner
   text-align: justify;
   margin-right: 30px;
   margin-left: 3px;
+  text-shadow:2px 0 #000000;
 }
 
 .main-banner .caption .main-button-red {
@@ -768,7 +770,7 @@ banner
   }
 
   .main-banner .caption h2 {
-    font-size: 36px;
+    font-size: 46px;
   }
 
 }
@@ -1779,7 +1781,7 @@ responsive
   .main-banner .caption h2 {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 22px;
+    font-size: 35px;
   }
 
   .main-banner .caption .main-button-red {
