@@ -129,6 +129,11 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
+h1 {
+  color: #eee;
+  font-family: 'Poppins', sans-serif;
+}
+
 ::selection {
   background: #f5a425;
   color: #fff;
